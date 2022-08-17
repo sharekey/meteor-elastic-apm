@@ -1,6 +1,6 @@
 {
   "name": "meteor-elastic-apm",
-  "version": "2.5.1",
+  "version": "2.6.0",
   "description": "Performance Monitoring for Meteor based on Elastic APM",
   "main": "meteor-elastic-apm.js",
   "scripts": {
@@ -11,13 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Meteor-Community-Packages/meteor-elastic-apm.git"
+    "url": "git+https://github.com/sharekey/meteor-elastic-apm.git"
   },
   "author": "Shynggys Kengessov",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Meteor-Community-Packages/meteor-elastic-apm/issues"
-  },
   "devDependencies": {
     "@babel/core": "^7.16.12",
     "babel-jest": "^25.5.1",
@@ -31,7 +28,7 @@
     "jest": "^25.5.4",
     "prettier": "1.19.1"
   },
-  "homepage": "https://github.com/kschingiz/meteor-elastic-apm#readme",
+  "homepage": "https://github.com/sharekey/meteor-elastic-apm#readme",
   "dependencies": {
     "elastic-apm-node": "3.27.0",
     "fibers": "^4.0.3",

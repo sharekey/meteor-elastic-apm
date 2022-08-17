@@ -1,6 +1,6 @@
 # Meteor metrics
 
-From version 2.2.0 Meteor-elastic-apm by default comes with [meteor-measured](https://github.com/kschingiz/meteor-measured).
+From version 2.2.0 Meteor-elastic-apm by default comes with [meteor-measured](https://github.com/sharekey/meteor-measured).
 
 Meteor-measured sends a lot of useful meteor specific metrics:
 
