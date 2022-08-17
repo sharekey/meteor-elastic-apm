@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/sharekey/meteor-elastic-apm.git"
   },
-  "author": "Shynggys Kengessov",
+  "author": "Sharekey",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.16.12",
