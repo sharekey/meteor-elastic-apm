@@ -1,6 +1,6 @@
 /* eslint-disable no-console */
 /* eslint-disable import/no-unresolved */
-import meteorMeasured from 'meteor/kschingiz:meteor-measured';
+import meteorMeasured from 'meteor/skadmin:meteor-measured';
 
 function startMetrics(agent) {
   const metrics = agent._metrics || {};
