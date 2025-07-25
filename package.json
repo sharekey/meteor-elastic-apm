@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/sharekey/meteor-elastic-apm#readme",
   "dependencies": {
-    "elastic-apm-node": "3.27.0",
+    "elastic-apm-node": "3.52.2",
     "fibers": "^4.0.3",
     "shimmer": "1.2.1"
   }
